@@ -1,0 +1,8 @@
+Competitor_ID,Competitor_Name,Market_Share_Pct,Primary_Strategy,Headquarter_Country,Base_Price_Premium_Pct,Free_Cancellation_Rate,Loyalty_Program_Penetration
+1,Booking.com,24.37,Global Leader,Netherlands,8.0,0.9,0.3
+2,Agoda,25.56,Value Pricing,Singapore,-5.0,0.7,0.2
+3,Expedia,13.28,Bundles,USA,2.0,0.75,0.25
+4,Hotels.com,16.22,Regional Focus,USA,3.0,0.72,0.22
+5,Almosafer,21.57,Regional Focus,Saudi Arabia,2.0,0.6,0.15
+6,Wego,28.58,Regional Focus,Saudi Arabia,2.0,0.62,0.14
+7,Tajawal,21.52,Regional Focus,Saudi Arabia,1.0,0.65,0.16

@@ -1,0 +1,76 @@
+Hotel_ID,Hotel_Name,Star_Rating,Room_Count,City_ID,District_Name,Latitude,Longitude,Chain_Name,Hotel_Type,Amenities_List,WiFi_Available,Parking_Available,Restaurant_Available,Gym_Available,Pool_Available,Halal_Certified,Average_Room_Rate_SAR,Commission_Rate_Pct
+1001,Tempore Riyadh Hotel,4,62,1,Diplomatic Quarter,24.489783707606954,46.27907585705029,Hilton,Business,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,600,20.9
+1002,Culpa Riyadh Hotel,3,97,1,Al Murabba,24.46532178678148,47.20403745809996,Independent,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,337,22.16
+1003,Alias Riyadh Hotel,4,264,1,Al Murabba,24.898418092567706,46.55638141646133,Hilton,Business,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,600,21.98
+1004,Harum Riyadh Hotel,3,129,1,Al Murabba,25.91442614441356,46.67318909022525,Hilton,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,1,1,337,15.97
+1005,Exercitationem Riyadh Hotel,4,359,1,Diplomatic Quarter,25.61425654654876,47.45946357338764,Independent,Business,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,600,24.73
+1006,Et Riyadh Hotel,3,332,1,Diplomatic Quarter,25.65880932850599,47.23703950472849,AccorHotels,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,337,22.05
+1007,Deserunt Riyadh Hotel,3,166,1,Diplomatic Quarter,25.970443041321516,47.710635442030295,Hilton,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,1,1,337,17.78
+1008,Corporis Riyadh Hotel,4,236,1,Al Sulimaniyah,24.740361934233764,46.419014061542974,AccorHotels,Business,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,600,21.09
+1009,Veritatis Riyadh Hotel,3,423,1,Al Murabba,24.326804987523857,46.7589108835153,Independent,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,337,21.85
+1010,Quisquam Riyadh Hotel,4,447,1,Al Olaya,24.45809614392821,46.06420048780807,AccorHotels,Business,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,1,1,600,17.68
+1011,Commodi Riyadh Hotel,3,340,1,KAFD,24.42525308810828,46.99846251898455,IHG,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,337,17.65
+1012,Rerum Riyadh Hotel,3,337,1,Diplomatic Quarter,25.494027623304515,46.85686765458916,Independent,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,1,1,337,18.62
+1013,Nisi Riyadh Hotel,5,120,1,Al Nakheel,24.181818824347587,46.09423275084947,Hilton,Luxury,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,1125,21.27
+1014,Aliquid Riyadh Hotel,4,266,1,Al Malaz,24.769534623349,47.19177685672226,IHG,Business,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,1,1,600,24.71
+1015,Aliquam Riyadh Hotel,5,55,1,Al Malaz,25.36342073805315,47.07394066081759,AccorHotels,Luxury,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,1,1,1125,16.12
+1016,Consectetur Riyadh Hotel,3,282,1,Al Olaya,25.907631855042162,47.75170588075639,AccorHotels,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,337,20.08
+1017,Esse Riyadh Hotel,3,370,1,Diplomatic Quarter,25.683338696344933,47.01532576395527,Marriott,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,337,18.74
+1018,Eveniet Riyadh Hotel,3,448,1,Al Olaya,25.197889168920458,46.9772114160579,Hilton,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,1,1,337,23.79
+1019,Quae Riyadh Hotel,4,207,1,Al Murabba,24.115850332988376,47.75601919840808,Hilton,Business,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,600,22.32
+1020,Sed Riyadh Hotel,4,439,1,Al Sulimaniyah,24.256782928999527,46.950564756197465,Independent,Business,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,600,17.65
+1021,Alias Riyadh Hotel,5,266,1,Al Murabba,25.857826986004355,47.51053039327161,Marriott,Luxury,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,1,1,1125,18.99
+1022,Ratione Riyadh Hotel,4,241,1,Al Nakheel,25.79922816928589,46.90297228278226,Marriott,Business,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,600,15.64
+1023,Eius Riyadh Hotel,3,333,1,Al Murabba,25.176880228820703,46.014381677970185,Hilton,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,337,15.67
+1024,Totam Riyadh Hotel,3,219,1,Al Malaz,25.02831223961718,46.55695452792909,IHG,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,337,20.39
+1025,Voluptates Riyadh Hotel,4,342,1,Al Nakheel,24.485994484791448,46.94594588588919,IHG,Business,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,600,15.94
+1026,Quisquam Riyadh Hotel,4,231,1,An Nahdah,24.822204552099475,47.72767349673921,Hilton,Business,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,600,15.61
+1027,Nihil Riyadh Hotel,4,459,1,Al Malaz,24.49731266784057,46.380417816881625,IHG,Business,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,600,19.22
+1028,Est Riyadh Hotel,3,177,1,Al Malaz,24.886261490106914,47.722698209523664,Independent,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,337,15.51
+1029,Occaecati Riyadh Hotel,5,478,1,Al Olaya,25.9379925145695,47.85273396601625,Marriott,Luxury,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,1125,19.06
+1030,Repudiandae Riyadh Hotel,3,492,1,An Nahdah,25.8048857310211,46.32927424280305,Hilton,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,1,1,337,17.65
+1031,Hic Mecca Hotel,4,282,2,Al Aziziyah,21.423007485990162,39.95731764085967,Independent,Business,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,1,1,600,16.55
+1032,Ab Mecca Hotel,3,79,2,Shisha,21.735737178789044,39.060957571476514,AccorHotels,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,337,15.5
+1033,Dolore Mecca Hotel,3,486,2,Shisha,21.157432727939483,39.96077890327445,Hilton,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,337,15.69
+1034,Voluptatem Mecca Hotel,3,491,2,Al Haram,21.403775551318276,39.94159612722909,Independent,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,337,20.79
+1035,Nisi Mecca Hotel,3,91,2,Jabal Omar,21.657373164472524,39.56522692384409,AccorHotels,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,1,1,337,17.04
+1036,Laboriosam Mecca Hotel,4,172,2,Al Aziziyah,21.395785846791256,39.671690222959974,AccorHotels,Business,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,1,1,600,18.16
+1037,Hic Mecca Hotel,4,87,2,Ajyad,21.458285522618585,39.998454440854445,Hilton,Business,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,600,20.38
+1038,Dolor Mecca Hotel,4,117,2,Al Aziziyah,21.88086417368644,39.879270242484544,AccorHotels,Business,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,1,1,600,16.58
+1039,Esse Mecca Hotel,4,410,2,Al Aziziyah,21.61167776572595,39.98723306363151,Independent,Business,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,600,21.68
+1040,Labore Mecca Hotel,4,389,2,Ajyad,21.938930003927105,39.13429111439337,Hilton,Business,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,600,22.42
+1041,Corporis Mecca Hotel,3,194,2,Shisha,21.210629654806944,39.34288028779326,AccorHotels,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,1,1,337,17.51
+1042,Consectetur Mecca Hotel,5,76,2,Ajyad,21.634284447309195,39.82934808937222,Hilton,Luxury,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,1125,18.34
+1043,Modi Mecca Hotel,3,184,2,Al Haram,21.74123090834793,39.55168042112639,IHG,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,337,16.12
+1044,Consequatur Mecca Hotel,5,403,2,Al Haram,21.54559028920552,39.83459501988602,Independent,Luxury,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,1125,19.3
+1045,Magnam Mecca Hotel,3,236,2,Al Taneem,21.97219626501726,39.03989487811122,AccorHotels,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,337,21.82
+1046,Laborum Mecca Hotel,4,231,2,Al Taneem,21.55988351914387,39.874712723541094,Independent,Business,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,600,24.26
+1047,Sed Mecca Hotel,3,133,2,Al Taneem,21.810771719940398,39.881416204663324,Hilton,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,337,22.37
+1048,Fuga Mecca Hotel,3,260,2,Al Taneem,21.669907129288198,39.735057538827874,Marriott,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,1,1,337,16.59
+1049,Aperiam Mecca Hotel,4,245,2,Al Taneem,21.038724607665788,39.47069002108599,Marriott,Business,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,1,1,600,18.5
+1050,Officia Mecca Hotel,4,496,2,Al Haram,21.22292354720581,39.66003318274863,IHG,Business,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,1,1,600,17.79
+1051,Quidem Mecca Hotel,3,445,2,Al Aziziyah,21.351146129082753,39.509405675528036,Independent,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,1,1,337,24.39
+1052,Cupiditate Mecca Hotel,3,183,2,Al Haram,21.58058973373871,39.98355057288309,Hilton,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,337,20.97
+1053,Minus Mecca Hotel,3,452,2,Al Aziziyah,21.436393883870608,39.98423584931659,Hilton,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,1,1,337,24.0
+1054,Beatae Mecca Hotel,3,72,2,Al Misfalah,21.436057515454973,39.519920348566586,Independent,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,337,18.64
+1055,Quod Mecca Hotel,3,390,2,Al Aziziyah,21.62315540994641,39.66338747626554,Hilton,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,1,1,337,20.07
+1056,Impedit Mecca Hotel,4,217,2,Jabal Omar,21.6972084141944,39.554412477666794,Marriott,Business,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,1,1,600,21.65
+1057,Sunt Jeddah Hotel,3,433,3,Al Andalus,21.61551491595138,39.30094987456557,Independent,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,337,18.04
+1058,Sit Jeddah Hotel,3,452,3,Al Shati,21.464988190247013,39.442159799304804,Marriott,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,1,1,337,22.94
+1059,Magni Jeddah Hotel,5,426,3,Al Andalus,21.65885074499842,39.28378640499303,Independent,Luxury,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,1,1,1125,15.93
+1060,Repellat Jeddah Hotel,5,170,3,Al Rehab,21.22464066599729,39.19912993272658,Hilton,Luxury,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,1125,17.45
+1061,Earum Jeddah Hotel,3,485,3,Al Hamra,21.45541616838009,39.88613690905098,Independent,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,337,22.18
+1062,Voluptatibus Jeddah Hotel,3,254,3,Al Rawdah,21.147571345091297,39.68762241308052,Hilton,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,1,1,337,17.19
+1063,Atque Jeddah Hotel,4,406,3,Al Bawadi,21.050218385140642,39.24919827965997,Hilton,Business,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,1,1,600,16.33
+1064,Aperiam Jeddah Hotel,3,321,3,Al Shati,21.950039608443156,39.89142592581044,Independent,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,1,1,337,23.31
+1065,Ut Jeddah Hotel,4,131,3,Al Bawadi,21.450069757246908,39.751776786500514,AccorHotels,Business,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,1,1,600,21.27
+1066,Eum Jeddah Hotel,3,89,3,Al Rehab,21.234493578014636,39.335847536621316,Independent,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,337,16.38
+1067,Illum Jeddah Hotel,3,405,3,Al Andalus,21.706419141694553,39.06422885071388,IHG,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,1,1,337,20.43
+1068,Beatae Jeddah Hotel,3,155,3,Corniche,21.389476812666942,39.769795772314666,Hilton,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,1,1,337,19.77
+1069,Eveniet Jeddah Hotel,5,202,3,Corniche,21.853447950569105,39.953430338470106,IHG,Luxury,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,1125,19.88
+1070,Consequuntur Jeddah Hotel,3,298,3,Al Balad,21.38885720324613,39.66887362062292,IHG,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,337,23.41
+1071,Modi Jeddah Hotel,5,368,3,Al Balad,21.906928862586767,39.59189277562791,Hilton,Luxury,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,1125,21.43
+1072,Hic Jeddah Hotel,3,286,3,Al Andalus,21.050284633488626,39.37910386418814,Marriott,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,1,1,337,18.27
+1073,Odit Jeddah Hotel,4,244,3,Al Rehab,21.752009823554786,39.831924285155274,AccorHotels,Business,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,600,19.7
+1074,Tempora Jeddah Hotel,4,76,3,Al Shati,21.22422216571975,39.06861837045277,Hilton,Business,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,600,24.5
+1075,Maiores Jeddah Hotel,3,60,3,Al Andalus,21.238544941888907,39.473561060946125,Hilton,Budget,"WiFi,Pool,Restaurant,Gym,Spa",1,1,1,1,0,1,337,19.65
