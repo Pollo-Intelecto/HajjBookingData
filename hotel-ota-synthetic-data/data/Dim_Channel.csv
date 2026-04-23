@@ -1,0 +1,5 @@
+Channel_ID,Channel_Name,Channel_Type,Commission_Rate_Pct
+1,Mobile App,Mobile,17.56
+2,Website,Web,18.69
+3,Direct,Direct,21.06
+4,API,Partner,24.64
