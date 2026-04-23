@@ -1,9 +1,0 @@
-Room_Type_ID,Room_Category,Max_Occupancy,Room_Amenities,Base_Price_Multiplier
-101,Standard,2,Basic Amenities,1.0
-102,Deluxe,2,"Balcony,Mini-bar",1.3
-103,Suite,3,"Balcony,Mini-bar",2.0
-104,Presidential,4,"Balcony,Mini-bar",4.0
-105,Executive,2,"Balcony,Mini-bar",1.5
-106,Family,4,"Balcony,Mini-bar",1.8
-107,Single,1,"Balcony,Mini-bar",0.8
-108,Double,2,"Balcony,Mini-bar",1.1

@@ -1,9 +1,0 @@
-Persona_ID,Persona_Name,Customer_Type,Preferred_City,Avg_Lead_Time_Days,Avg_LOS_Nights,Price_Sensitivity,Feature_Preference,Cancellation_Propensity,Loyalty_Enrollment_Rate
-1,Riyadh_Business_Frequent,Business,Riyadh,10,2,Medium,Medium,0.15,0.4
-2,Mecca_Religious_Hajj,Religious,Mecca,60,5,Low,Low,0.03,0.08
-3,Jeddah_Leisure_Family,Leisure,Jeddah,17,3,High,Low,0.08,0.25
-4,Riyadh_Leisure_Tourist,Leisure,Riyadh,21,3,Medium,Medium,0.1,0.2
-5,Mecca_Umrah_Visitor,Religious,Mecca,45,4,Low,Low,0.05,0.1
-6,Jeddah_Business_Gateway,Business,Jeddah,12,2,Medium,Medium,0.12,0.3
-7,Budget_Backpacker,Leisure,Riyadh,7,2,High,Low,0.18,0.05
-8,Luxury_VIP,Business,Riyadh,5,3,Low,High,0.08,0.6
